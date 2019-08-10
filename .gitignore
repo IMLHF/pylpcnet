@@ -4,4 +4,4 @@
 .vscode/*
 *.npy
 *.o
-lpcnet.c
+/lpcnet.c
