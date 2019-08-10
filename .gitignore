@@ -1,0 +1,7 @@
+*.pcm
+*.so
+*.bin
+.vscode/*
+*.npy
+*.o
+lpcnet.c
