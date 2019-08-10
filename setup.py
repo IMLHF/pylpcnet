@@ -7,7 +7,7 @@ ext_modules = [
         'lpcnet',
         ["lpcnet.pyx"],
         # extra_compile_args=['-mavx2', '-mfma', '-O3', '-g']
-        extra_compile_args=['-O3', '-g'] # if cpu report "非法指令"
+        extra_compile_args=['-O3', '-g'] # if cpu report "illegal instruction"
     )
 ]
 
