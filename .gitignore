@@ -1,7 +1,8 @@
 *.pcm
 *.so
 *.bin
-.vscode/*
+.vscode
 *.npy
 *.o
 /lpcnet.c
+build
