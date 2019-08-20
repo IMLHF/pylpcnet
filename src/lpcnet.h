@@ -41,8 +41,6 @@
 # endif
 #endif
 
-#define LPCNET_EXPORT 
-
 
 #define NB_FEATURES 38
 #define NB_TOTAL_FEATURES 55
