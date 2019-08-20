@@ -6,3 +6,5 @@
 *.o
 /lpcnet.c
 build
+src_new
+src_bak
