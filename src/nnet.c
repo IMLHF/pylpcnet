@@ -65,7 +65,6 @@ static void sgemv_accum(float *out, const float *weights, int rows, int cols, in
    } else {
       for (i=0;i<rows;i++)
       {
-         
          for (j=0;j<cols;j++)
             out[i] += weights[j*col_stride + i]*x[j];
       }
