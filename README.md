@@ -26,3 +26,7 @@ feature = np.load('feature.npy')
 feature = feature.astype(np.float32)
 pcm = synthesizer.synthesis(feat) 
 ```
+
+
+# Train a new model
+* See [LPCNet: https://github.com/IMLHF/LPCNet](https://github.com/IMLHF/LPCNet)
