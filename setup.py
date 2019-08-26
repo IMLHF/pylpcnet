@@ -13,6 +13,6 @@ ext_modules = [
 
 setup(
     name='pylpcnet',
-    version='1.2', # 1.0 raw, 1.1.0 aishellC0896, 1.1.1 aishellC0002, 1.2 biaobei
+    version='1.2-biaobei', # 1.0 raw, 1.1.0 aishellC0896, 1.1.1 aishellC0002, 1.2 biaobei
     ext_modules=cythonize(ext_modules)
 )
