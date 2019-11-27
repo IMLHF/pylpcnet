@@ -30,3 +30,6 @@ pcm = synthesizer.synthesis(feat)
 
 # Train a new model
 * See [LPCNet: https://github.com/IMLHF/LPCNet](https://github.com/IMLHF/LPCNet)
+
+# 
+Author [@jmvalin](https://github.com/jmvalin) [@vBaiCai](https://github.com/vBaiCai)
